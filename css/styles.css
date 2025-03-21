@@ -45,7 +45,7 @@ p {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #D80003;
 }
 
 .biography-details li, .skill-list li {
@@ -59,6 +59,7 @@ p {
 	flex-basis: 1.4em;
 }
 .Barbare-Style {
-	color: red;
+	color: #0D10D2;
 }
+
    
