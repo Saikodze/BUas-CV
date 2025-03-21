@@ -6,8 +6,6 @@ A template to create a CV while learning HTML and CSS
 
 Click on <https://saikodze.github.io/BUas-CV/> to see what the résumé looks like when published!
 
- **Please replace the address above by your CV's own address, since this is a link to the original template!**
-
 ## Create your own CV
 
 Create your own GitHub repository based on this template by clicking on
